@@ -15,4 +15,6 @@ python -m unittest tests/test_issta_flight_booking.py
 issta_flight_booking.py: Object Oriented Program (OOP) implementation for interacting with the ISSTA flight booking website.
 test_issta_flight_booking.py: Unit tests using unittest framework to validate various functionalities of the flight booking process.
 
+For any issue, don't hesitate to contact me: dorbit050@gmail.com
+
 Thank you :)
